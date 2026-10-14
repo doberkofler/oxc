@@ -82,6 +82,7 @@ declare_oxc_lint!(
     PreferNumberProperties,
     unicorn,
     restriction,
+    recommended,
     dangerous_fix,
     config = PreferNumberPropertiesConfig,
     version = "0.0.19",
