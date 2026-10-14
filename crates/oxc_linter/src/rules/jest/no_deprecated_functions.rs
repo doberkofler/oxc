@@ -110,6 +110,7 @@ declare_oxc_lint!(
     NoDeprecatedFunctions,
     jest,
     style,
+    recommended,
     fix,
     config = NoDeprecatedFunctionsConfig,
     version = "0.0.18",
